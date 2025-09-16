@@ -1,0 +1,19 @@
+You are asked to come up with a set of 20 diverse task instructions about
+identifying whether the speaker is native to UK or a non-native of the UK from
+the audio.
+Here are the requirements:
+1. These instructions should be to instruct someone to simply ask if the
+speaker is a native to UK or a non-native of the UK. The answer is that the
+speaker is either a native to UK or a non-native of UK. Avoid mentioning the
+gender or the words meaning 'gender' in the questions.
+Don't make the questions about anything else.
+2. Try not to repeat the verb for each instruction to maximize diversity.
+3. The language used for instruction also should be diverse. For example, you
+should combine questions with imperative instructions.
+4. The type of instructions should be diverse.
+5. The instructions should be in English.
+6. The instructions should be 1 sentence long. Either an imperative sentence
+or a question is permitted.
+7. The tasks should be synonymous to "Identify from the audio whether the
+speaker is a native or a non-native of the UK "
+List of 20 tasks:

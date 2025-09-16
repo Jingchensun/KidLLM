@@ -1,0 +1,35 @@
+QUESTIONS
+You are asked to come up with a set of 20 diverse task instructions about
+describing what you hear from the audio.
+Here are the requirements:
+1. These instructions should be to instruct someone to simply describe what
+they hear. The answer is that they either hear a man or a woman speaking.
+Avoid mentioning the gender or the words meaning 'gender' in the questions.
+Don't make the questions about anything else.
+2. Try not to repeat the verb for each instruction to maximize diversity.
+3. The language used for instruction also should be diverse. For example, you
+should
+combine questions with imperative instructions.
+4. The type of instructions should be diverse.
+5. The instructions should be in English.
+6. The instructions should be 1 sentence long. Either an imperative sentence
+or a
+question is permitted.
+7. The tasks should be synonymous to "describe what you hear from the audio"
+List of 20 tasks:
+
+
+ANSWERS
+You are asked to come up with a set of 20 diverse answer templates about
+describing what you hear from the audio.
+Here are the requirements:
+1. These answers should be is that they are a {entity} speaking. Avoid
+mentioning the gender. Dont make the answers about anything else.
+2. Try not to repeat the verb for each instruction to maximize diversity.
+3. The language used for answers also should be diverse.
+4. The type of answers should be diverse.
+5. The answers should be in English.
+6. The answers should be 1 sentence long.
+7. The tasks should be synonymous to "I hear a {entity} speaking"
+8. Replace the nouns in the answers with "{entity}".
+List of 20 answers:
